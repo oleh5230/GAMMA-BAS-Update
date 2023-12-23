@@ -487,18 +487,7 @@ if weapon_cover_tilt_positions then
 	o["wpn_ppsh_bas_uptacppsh"] = {
 		y = 0.2,
 	}
-
-	function on_game_start()
-		-- If blindsides patch enabled - disable their positions
-		if weapon_cover_tilt_positions_blindsides then
-			o["wpn_pb"] = {
-				y = -0.05,
-				z = 0,
-			}
-			o["wpn_pb_custom"] = {
-				y = -0.05,
-				z = 0,
-			}
-		end
-	end
+	o["wpn_rpg7"] = {
+		y = 0.25,
+	}
 end
