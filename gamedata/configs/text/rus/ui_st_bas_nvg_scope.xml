@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- BaS NVG scope -->
+	<string id="ui_mcm_menu_bas_nvg_scope">
+		<text>Ночные прицелы</text>
+	</string>
+	<string id="ui_mcm_menu_bas_nvg_scope_title">
+		<text>Ночные прицелы</text>
+	</string>
+	<string id="ui_mcm_bas_nvg_scope_key_bas_nvg_scope">
+		<text>Клавиша переключения ночных прицелов</text>
+	</string>
+</string_table>
